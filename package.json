@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "repository": "https://github.com/iFaxity/mdc-data-table.git",
   "license": "MIT",
-  "dependencies": {
+  "peerDependencies": {
     "@material/theme": "^0.40.0",
     "@material/typography": "^0.39.0"
   }
